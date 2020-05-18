@@ -7,7 +7,7 @@ weight = 2
 title = "Bellessem Unternehmensberatung - Über Uns"
 
 +++
-![](/bellesseminternet.JPG)
+![](/img/bellesseminternet.JPG)
 
 ## **Unternehmensberatung**  
  **Reinhard Bellessem**
